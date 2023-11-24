@@ -14,17 +14,23 @@
 
 # Float
 
-gpa = 3.2
-distance = 2.5
-price = 10.99
+# gpa = 3.2
+# distance = 2.5
+# price = 10.99
 
-print(f"Your gpa is {gpa}")
-print(f"You ran {distance}Km")
-print(f"The price is ${price}")
+# print(f"Your gpa is {gpa}")
+# print(f"You ran {distance}Km")
+# print(f"The price is ${price}")
 
 # String
 
+name = "Mitch"
+food = "Chiptole"
+email = "mitchandrade@gmail.com"
 
+print(f"Hello {name}")
+print(f"You like {food}")
+print(f"Your email is: {email}")
 
 # Boolean
 
